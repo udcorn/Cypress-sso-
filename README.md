@@ -20,3 +20,4 @@ Highly recommended: watch video ["Organizing Tests, Logging In, Controlling Stat
 To see debug logs from the server, run the server with `DEBUG=sso`
 # Cypress-sso-
 # Cypress-sso-
+# advanceCypress-
